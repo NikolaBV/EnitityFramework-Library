@@ -6,7 +6,7 @@ namespace EntityFrameworkProject
     {
         static void Main()
         {
-
+             
         }
     }
 }
